@@ -10,7 +10,7 @@ FocusTrack is a responsive task management web application developed as part of 
 
 ## 🚀 Live Demo
 
-🔗 https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/
+🔗 [https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/](https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/)
 
 ## 📌 Project Overview
 
