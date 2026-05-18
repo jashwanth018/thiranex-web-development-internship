@@ -12,7 +12,7 @@ This repository contains all projects completed during my **Web Development Inte
 ## 📌 Live Project Links
 
 ### 🌐 Task 1 — Personal Portfolio
-- **Live Demo:** https://jashwanth018.github.io/thiranex-web-development-internship/Task-1-Personal-Portfolio/
+- **Live Demo:**  https://jashwanth018.github.io/thiranex-web-development-internship/Task-1-Personal-Portfolio/
  
 
 ### 📋 Task 2 — FocusTrack Task Management Application
