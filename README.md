@@ -30,11 +30,19 @@ This project demonstrates a premium online shopping experience with product brow
 
 ## 🚀 Live Demo
 
-🌐 **Website:** https://jashwanth018.github.io/Task-3-E-Commerce-Web-Application/client/index.html
+🔗 Live Website: https://jashwanth018.github.io/Task-3-E-Commerce-Web-Application/client/index.html
 ---
 
-### 🚀 Task 4 — Coming Soon
-- Project will be added after completion.
+### 🚀 Task 4 —Blog-Platform-with-Comments
+# 🌟 StoryHub - Blog Platform with Comments
+
+StoryHub is a modern and fully responsive blog platform built using HTML, CSS, and JavaScript. Users can register, log in, create stories, edit or delete posts, like articles, and engage with comments. All data is stored using Local Storage, making the application completely frontend-based.
+
+---
+
+## 🚀 Live Demo
+
+🔗 Live Website: https://jashwanth018.github.io/Task-4-Blog-Platform-with-Comments/
 
 ---
 
