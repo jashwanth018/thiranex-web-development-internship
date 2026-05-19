@@ -12,11 +12,11 @@ This repository contains all projects completed during my **Web Development Inte
 ## 📌 Live Project Links
 
 ### 🌐 Task 1 — Personal Portfolio
-- **Live Demo:**  https://jashwanth018.github.io/thiranex-web-development-internship/Task-1-Personal-Portfolio/
+- **🔗 Live Demo:**  [https://jashwanth018.github.io/thiranex-web-development-internship/Task-1-Personal-Portfolio/](https://jashwanth018.github.io/portfolio/)
  
 
 ### 📋 Task 2 — FocusTrack Task Management Application
-- **Live Demo:** [https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/](https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/)
+- **🔗 Live Demo:** [https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/](https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/)
  
 
 ### 🛠️ Task 3 —E-Commerce Web Application
@@ -30,7 +30,7 @@ This project demonstrates a premium online shopping experience with product brow
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://jashwanth018.github.io/Task-3-E-Commerce-Web-Application/client/index.html
+- **🔗 Live Demo:** https://jashwanth018.github.io/Task-3-E-Commerce-Web-Application/client/index.html
 ---
 
 ### 🚀 Task 4 —Blog-Platform-with-Comments
@@ -42,7 +42,7 @@ StoryHub is a modern and fully responsive blog platform built using HTML, CSS, a
 
 ## 🚀 Live Demo
 
-🔗 Live Website: https://jashwanth018.github.io/Task-4-Blog-Platform-with-Comments/
+- **🔗 Live Demo:** https://jashwanth018.github.io/Task-4-Blog-Platform-with-Comments/
 
 ---
 
