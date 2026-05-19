@@ -19,8 +19,19 @@ This repository contains all projects completed during my **Web Development Inte
 - **Live Demo:** [https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/](https://jashwanth018.github.io/thiranex-web-development-internship/Task-2-Task-Management-Application/)
  
 
-### 🛠️ Task 3 — Coming Soon
-- Project will be added after completion.
+### 🛠️ Task 3 —E-Commerce Web Application
+# 🛒 ShopSphere - Premium E-Commerce Web Application
+
+A modern and responsive **E-Commerce Web Application** developed as part of the **THIRANEX Web Development Internship - Task 3**.
+
+This project demonstrates a premium online shopping experience with product browsing, filtering, search, cart functionality, user authentication pages, and order management.
+
+---
+
+## 🚀 Live Demo
+
+🌐 **Website:** https://jashwanth018.github.io/Task-3-E-Commerce-Web-Application/client/index.html
+---
 
 ### 🚀 Task 4 — Coming Soon
 - Project will be added after completion.
